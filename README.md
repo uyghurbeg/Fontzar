@@ -12,6 +12,8 @@ Fontzar (中文)
 这个项目曾经在App Store上被下载过3K次以上...
 
 效果图 | Demo：
+
+
 ![alt text](https://github.com/uyghurbeg/Fontzar/blob/master/screen1.png)
 
 ![alt text](https://github.com/uyghurbeg/Fontzar/blob/master/screen2.png)
