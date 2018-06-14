@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>en</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.0.2</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.0.6</string>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>UKIJElipbe-b.ttf</string>
+		<string>Ekran.ttf</string>
+		<string>ukijqol_yantu.ttf</string>
+		<string>ukijqolyazma.ttf</string>
+		<string>ALKATIP Basma Tom.TTF</string>
+		<string>UKIJElipbe.ttf</string>
+		<string>UKIJTor.ttf</string>
+		<string>alkatip basma.ttf</string>
+		<string>alkatip gezit tom.ttf</string>
+		<string>alkatip gezit.ttf</string>
+		<string>alkatip jornal tom.ttf</string>
+		<string>alkatip jornal.ttf</string>
+		<string>alkatip kitab tom.ttf</string>
+		<string>alkatip kitab.ttf</string>
+		<string>alkatip marka.ttf</string>
+		<string>alkatip tor tom.ttf</string>
+		<string>alkatip tor.ttf</string>
+		<string>ALKATIP Yazma Tom.ttf</string>
+		<string>ALKATIP Yazma.ttf</string>
+		<string>alkatip_1.ttf</string>
+		<string>alkatip.ttf</string>
+		<string>blog.ttf</string>
+		<string>msuighur.ttf</string>
+		<string>Uighur Basma.ttf</string>
+		<string>ukij3d.ttf</string>
+		<string>ukijbasma.ttf</string>
+		<string>ukijtughra.ttf</string>
+		<string>ukijtut.ttf</string>
+		<string>ukijtuz.ttf</string>
+		<string>ukijtuzg.ttf</string>
+		<string>ukijtuzk.ttf</string>
+		<string>ukijtuzkb.ttf</string>
+		<string>ukijtuzq.ttf</string>
+		<string>ukijtzneqish.ttf</string>
+		<string>ukijtztr.ttf</string>
+		<string>ukijzilwa.ttf</string>
+		<string>ukijkuy.ttf</string>
+		<string>ukijkuyol.ttf</string>
+		<string>ukijqol_tuz.ttf</string>
+		<string>ukijru.ttf</string>
+		<string>ukijsaet.ttf</string>
+		<string>ukijsls.ttf</string>
+		<string>ukijslstom.ttf</string>
+		<string>ukijteng.ttf</string>
+		<string>ukijtiken.ttf</string>
+		<string>ukijtitle.ttf</string>
+		<string>UKIJTor.ttf</string>
+		<string>ukijorqun_y.ttf</string>
+		<string>ukijorxun.ttf</string>
+		<string>ukijqara.ttf</string>
+		<string>ukijqol_tez.ttf</string>
+		<string>ukijme.ttf</string>
+		<string>ukijmejn.ttf</string>
+		<string>ukijmejt.ttf</string>
+		<string>ukijmoyq.ttf</string>
+		<string>ukijnsq.ttf</string>
+		<string>ukijnsqz.ttf</string>
+		<string>ukijbom.ttf</string>
+		<string>ukijesc.ttf</string>
+		<string>ukijesn.ttf</string>
+		<string>ukijesq.ttf</string>
+		<string>ukijest.ttf</string>
+		<string>ukijimaret.ttf</string>
+		<string>ukijinichke.ttf</string>
+		<string>ukijje.ttf</string>
+		<string>ukijjunu.ttf</string>
+		<string>ukijka.ttf</string>
+		<string>ukijka3d.ttf</string>
+		<string>ukijkesme.ttf</string>
+		<string>ukijkesmetuz.ttf</string>
+		<string>ukijku.ttf</string>
+		<string>ukijku3d.ttf</string>
+		<string>ukijkuchi.ttf</string>
+		<string>ukijkug.ttf</string>
+		<string>ukijkuka.ttf</string>
+		<string>ukijkut.ttf</string>
+		<string>ukijkuu.ttf</string>
+		<string>ukijchechek.ttf</string>
+		<string>ukijchik.ttf</string>
+		<string>ukijcjk.ttf</string>
+		<string>ukijdi.ttf</string>
+		<string>ukijdik.ttf</string>
+		<string>ukijdit.ttf</string>
+		<string>ukijdiy.ttf</string>
+		<string>UKIJElipbe.ttf</string>
+		<string>ukijelipbech.ttf</string>
+		<string>ukijes.ttf</string>
+		<string>alkatip ui.ttf</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+	</array>
+</dict>
+</plist>

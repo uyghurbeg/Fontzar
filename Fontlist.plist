@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Basma Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Basma</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Gezit Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Gezit</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Jornal Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Jornal</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Kitab Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Kitab</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Tor Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Tor</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP UI</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Yazma</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>ALKATIP Yazma Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>Alpida Unicode System</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>Microsoft Uighur</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>Uighur Basma</string>
+    </dict>
+	<dict>
+		<key>fontName</key>
+		<string>UKIJ Ekran</string>
+	</dict>
+	<dict>
+		<key>fontName</key>
+		<string>UKIJ Elipbe</string>
+	</dict>
+	<dict>
+		<key>fontName</key>
+		<string>UKIJ Tor</string>
+	</dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ 3D</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Basma</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Bom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Chechek</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Chiwer Kesme</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ CJK</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Diwani</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Diwani Kawak</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Diwani Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Diwani Yantu</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Elipbe_Chekitlik</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Esliye</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Esliye Chiwer</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Esliye Neqish</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Esliye Qara</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Esliye Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Inchike</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Jelliy</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Junun</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kawak</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kawak 3D</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kesme</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kesme Tuz</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi 3D</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi Chiwer</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi Gul</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi Kawak</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi Tar</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi Uz</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi Yay</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Kufi Yolluq</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Merdane</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Mejnun</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Mejnuntal</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Moy Qelem</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Nasq</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Nasq Zilwa</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Orqun Yazma</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Qara</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Qolyazma Tez</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Qolyazma Tuz</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Qolyazma Yantu</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Qolyazma</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Ruqi</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Saet</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Sulus</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Sulus Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Teng</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tiken</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Title</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tuz Tom</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tuz</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tuz Gezit</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tuz Kitab</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tuz Qara</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tuz Neqish</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Tuz Tor</string>
+    </dict>
+    <dict>
+        <key>fontName</key>
+        <string>UKIJ Zilwa</string>
+    </dict>
+</array>
+</plist>

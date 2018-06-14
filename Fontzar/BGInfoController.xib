@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="10116" systemVersion="15E65" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="10085"/>
+    </dependencies>
+    <customFonts key="customFonts">
+        <mutableArray key="Ekran.ttf">
+            <string>UKIJEkran</string>
+            <string>UKIJEkran</string>
+            <string>UKIJEkran</string>
+        </mutableArray>
+    </customFonts>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BGInfoController">
+            <connections>
+                <outlet property="view" destination="i5M-Pr-FkT" id="sfx-zR-JGt"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view clearsContextBeforeDrawing="NO" contentMode="scaleToFill" id="i5M-Pr-FkT">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Email:Uyghurbeg@yahoo.com" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KNu-0i-cww">
+                    <rect key="frame" x="44" y="525" width="232" height="25"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="25" id="GWB-ti-gZ2"/>
+                        <constraint firstAttribute="width" constant="232" id="lkK-Ru-iJh"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                    <color key="textColor" red="0.50323600869999996" green="0.50323600869999996" blue="0.50323600869999996" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="لايىھەلىگۈچى ۋە پروگراممېر ياردەمچىسى" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8JY-D3-AIz">
+                    <rect key="frame" x="14" y="233" width="293" height="57"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="57" id="50s-B6-5k4"/>
+                        <constraint firstAttribute="width" constant="293" id="sal-La-YIC"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="UKIJEkran" family="UKIJ Ekran" pointSize="16"/>
+                    <color key="textColor" red="0.30768264080000002" green="0.30768264080000002" blue="0.30768264080000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="فونتزار 1.0" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gBv-I8-U6M">
+                    <rect key="frame" x="14" y="174" width="293" height="51"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="51" id="3Bb-oP-oJz"/>
+                        <constraint firstAttribute="width" constant="293" id="TzH-dQ-zJQ"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="UKIJEkran" family="UKIJ Ekran" pointSize="22"/>
+                    <color key="textColor" red="0.30768264080000002" green="0.30768264080000002" blue="0.30768264080000002" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="مەزكۇر ئەپنى ئۇيغۇربەگ تۈزگەن" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fur-VG-Oqz">
+                    <rect key="frame" x="44" y="499" width="232" height="31"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="232" id="6Xg-0f-0am"/>
+                        <constraint firstAttribute="height" constant="31" id="DUu-bY-5hE"/>
+                    </constraints>
+                    <fontDescription key="fontDescription" name="UKIJEkran" family="UKIJ Ekran" pointSize="15"/>
+                    <color key="textColor" red="0.50323600871313667" green="0.50323600871313667" blue="0.50323600871313667" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="gBv-I8-U6M" firstAttribute="top" secondItem="i5M-Pr-FkT" secondAttribute="top" constant="174" id="0Ie-BA-WeP"/>
+                <constraint firstItem="KNu-0i-cww" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="44" id="0Kf-Tx-dF9"/>
+                <constraint firstAttribute="bottom" secondItem="KNu-0i-cww" secondAttribute="bottom" constant="18" id="0PK-h3-NEa"/>
+                <constraint firstAttribute="trailing" secondItem="KNu-0i-cww" secondAttribute="trailing" constant="44" id="80d-wZ-KF2"/>
+                <constraint firstAttribute="trailing" secondItem="fur-VG-Oqz" secondAttribute="trailing" constant="44" id="9Pj-Ze-bQf"/>
+                <constraint firstItem="fur-VG-Oqz" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="44" id="EMA-D7-Vqd"/>
+                <constraint firstAttribute="trailing" secondItem="8JY-D3-AIz" secondAttribute="trailing" constant="13" id="bVB-H5-iZO"/>
+                <constraint firstItem="8JY-D3-AIz" firstAttribute="top" secondItem="gBv-I8-U6M" secondAttribute="bottom" constant="8" id="e5a-CD-HnC"/>
+                <constraint firstItem="gBv-I8-U6M" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="14" id="ecy-oz-ZoM"/>
+                <constraint firstItem="8JY-D3-AIz" firstAttribute="leading" secondItem="i5M-Pr-FkT" secondAttribute="leading" constant="14" id="fOf-xi-ctN"/>
+                <constraint firstItem="fur-VG-Oqz" firstAttribute="top" secondItem="8JY-D3-AIz" secondAttribute="bottom" constant="209" id="jIB-Z6-xQc"/>
+                <constraint firstAttribute="bottom" secondItem="fur-VG-Oqz" secondAttribute="bottom" constant="38" id="rkr-UA-rRw"/>
+                <constraint firstItem="KNu-0i-cww" firstAttribute="top" secondItem="8JY-D3-AIz" secondAttribute="bottom" constant="235" id="vwD-0Y-Nh3"/>
+                <constraint firstAttribute="trailing" secondItem="gBv-I8-U6M" secondAttribute="trailing" constant="13" id="x7t-NB-qZ7"/>
+            </constraints>
+            <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina4"/>
+            <point key="canvasLocation" x="216" y="310"/>
+        </view>
+    </objects>
+</document>
